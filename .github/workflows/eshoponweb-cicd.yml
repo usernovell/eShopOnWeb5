@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-omar
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: b581b285-c8c3-44f8-a8c8-65128c446d4e
+  SUBSCRIPTION-ID: 'b581b285-c8c3-44f8-a8c8-65128c446d4e'
   WEBAPP-NAME: eshoponweb-webapp-omar
 
 
